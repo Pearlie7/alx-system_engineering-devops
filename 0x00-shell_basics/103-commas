@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1v -a | awk '$0=$0"/"' | tr '\n' ','.
+ls -1vap | tr '\n' ','
