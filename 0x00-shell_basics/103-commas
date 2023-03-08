@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1vap | tr '\n' ','
+ls -1v -p -a | awk '{printf "%s%s", $0, (NR%2 ? ",": "\n")}'
