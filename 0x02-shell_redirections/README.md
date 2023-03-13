@@ -19,4 +19,6 @@
 18. grep '^[[:upper:]]\|^[[:lower:]]' /etc/ssh/sshd_config	- To display all lines of a file starting with letters only
 19. tr Ac Ze	- To replace A and c with Z and e respectively
 20. tr -d cC	- To remove all letters c and C from the input
-21. 
+21. rev		- To reverse inputs
+22. cut -d':' -f1,6 /etc/passwd | sort	- To display all users and their home dir, sorted by users
+ 
