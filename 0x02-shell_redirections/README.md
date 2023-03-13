@@ -21,4 +21,27 @@
 20. tr -d cC	- To remove all letters c and C from the input
 21. rev		- To reverse inputs
 22. cut -d':' -f1,6 /etc/passwd | sort	- To display all users and their home dir, sorted by users
- 
+23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24. 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
+24.  
