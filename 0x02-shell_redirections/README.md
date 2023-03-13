@@ -15,3 +15,5 @@
 14. grep root /etc/passwd	- Lines containing root from the file /etc/passwd
 15. grep bin /etc/passwd |wc -l	- To count words that contain bin in the file etc/passwd
 16. grp -A 3 'root' /etc/passwd		-To display lines containing the ppatter root and three lines after them in the file /etc/passwd
+17. grep -v bin /etc/passwd 	- To display all the lines that does not contain bin in the file /etc/passwd
+18.
