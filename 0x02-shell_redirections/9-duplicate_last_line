@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 9-duplicate_last_line >> 9-duplicate_last_line
+sed -n iacta >> iacta
