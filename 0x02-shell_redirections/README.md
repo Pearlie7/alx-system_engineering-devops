@@ -18,4 +18,5 @@
 17. grep -v bin /etc/passwd 	- To display all the lines that does not contain bin in the file /etc/passwd
 18. grep '^[[:upper:]]\|^[[:lower:]]' /etc/ssh/sshd_config	- To display all lines of a file starting with letters only
 19. tr Ac Ze	- To replace A and c with Z and e respectively
-20.  
+20. tr -d cC	- To remove all letters c and C from the input
+21. 
