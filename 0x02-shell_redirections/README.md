@@ -8,4 +8,7 @@
 7. echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"	- To create a file, ignore special characters and input text.
 8. ls -al >> filename	- To write into a file
 9. tail -n 1 iacta >> iacta	- To duplicate the last line of a file
-10.find . -name '*.js' -typr f -delete	- To delete all .js
+10.find . -name '*.js' -type f -delete	- To delete all .js
+11. find . -mindepth 1 -type d | wc -1	- To count the number of directories and subdirectories in th current directory
+12. ls-t | head -n 10	- T0 display 10 newest files in the current directory
+13. sort | uniq -u	-a list of words that take input and prints only words that appear exactly once 
