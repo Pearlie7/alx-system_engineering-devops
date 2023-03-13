@@ -14,4 +14,4 @@
 13. sort | uniq -u	-a list of words that take input and prints only words that appear exactly onc
 14. grep root /etc/passwd	- Lines containing root from the file /etc/passwd
 15. grep bin /etc/passwd |wc -l	- To count words that contain bin in the file etc/passwd
-16.
+16. grp -A 3 'root' /etc/passwd		-To display lines containing the ppatter root and three lines after them in the file /etc/passwd
