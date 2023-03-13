@@ -23,3 +23,4 @@
 22. cut -d':' -f1,6 /etc/passwd | sort	- To display all users and their home dir, sorted by users
 23. find. -empty -printf '%f\n'		-EMpty casks make the most noise
 24. find -type f -name "*.gif" | rev | cut -d "/" -f 1 | cut -d '.' -f 2- | rev | LC_ALL=C sort -f    - A gif is worth ten thousand words
+25. cut -c 1 | paste -s -d ''		- Acrostic
