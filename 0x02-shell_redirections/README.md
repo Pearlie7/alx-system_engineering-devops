@@ -12,5 +12,6 @@
 11. find . -mindepth 1 -type d | wc -1	- To count the number of directories and subdirectories in th current directory
 12. ls-t | head -n 10	- T0 display 10 newest files in the current directory
 13. sort | uniq -u	-a list of words that take input and prints only words that appear exactly onc
-14. grep root /etc/passwd	- Lines containing root from the file etc/passwd
-15. e 
+14. grep root /etc/passwd	- Lines containing root from the file /etc/passwd
+15. grep bin /etc/passwd |wc -l	- To count words that contain bin in the file etc/passwd
+16.
