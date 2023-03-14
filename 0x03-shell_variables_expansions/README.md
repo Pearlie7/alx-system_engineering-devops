@@ -6,4 +6,5 @@
 5. set			- Use to print global and local enviroment with their functions
 6. export BEST="School"		- To create a local variable with name BEST and value School
 7. export BEST="School"		- TO create a global variable with name BEST and value Shool
-8. 
+8. echo $((128 + TRUEKNOWLEDGE))		- To add 128 to value of the variable TRUEKNOWLEDGE
+9.  
