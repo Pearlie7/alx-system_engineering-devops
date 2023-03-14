@@ -9,4 +9,7 @@
 8. echo $((128 + TRUEKNOWLEDGE))		- To add 128 to value of the variable TRUEKNOWLEDGE
 9. echo $((POWER / DIVIDE))		- To display the reult of  POWER divided by DIVIDE
 10. echo $((BREATH ** LOVE))		- To display the result of BREATH to the power LOVE
-11. echo "$((2#${BINARY}))"		-To convert the vale of BINARY from base 2 to base 10 
+11. echo "$((2#${BINARY}))"		-To convert the value of BINARY from base 2 to base 1
+12. echo {a..n}{a..z} | tr " " "\n" | grep -v "oo"		- To print all possible combinations of two letters except oo
+13. printf '%.2f\n' $NUM		- To print a number with two decimal places
+14.  
