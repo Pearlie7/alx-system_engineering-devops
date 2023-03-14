@@ -12,4 +12,5 @@
 11. echo "$((2#${BINARY}))"		-To convert the value of BINARY from base 2 to base 1
 12. echo {a..n}{a..z} | tr " " "\n" | grep -v "oo"		- To print all possible combinations of two letters except oo
 13. printf '%.2f\n' $NUM		- To print a number with two decimal places
-14.  
+14.  printf '%X\n' $DECIMAL		- To convert a number in variable DECIMAL from base 10 to base 16
+15. 
