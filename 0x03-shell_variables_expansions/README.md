@@ -3,4 +3,5 @@
 2. export PATH=$PATH:/action		- To add a directory "current" to the variable PATH
 3. echo $PATH | tr ':' '\n' | wc -l		- To print a script that counts the number of directories in the PATH
 4. printenv		- Use to print global variable
-5.  
+5. set			- Use to print global and local enviroment with their functions
+6.
