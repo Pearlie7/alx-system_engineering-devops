@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..n}\n{p..z}
+echo {a..n p..z}\n
