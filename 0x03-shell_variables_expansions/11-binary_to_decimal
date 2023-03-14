@@ -1,2 +1,2 @@
 #!/bin/bash
-binary=BINARY | echo "$((2#${binary}))"
+echo "$((2#${BINARY}))"
