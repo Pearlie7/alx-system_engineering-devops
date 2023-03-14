@@ -7,4 +7,5 @@
 6. export BEST="School"		- To create a local variable with name BEST and value School
 7. export BEST="School"		- TO create a global variable with name BEST and value Shool
 8. echo $((128 + TRUEKNOWLEDGE))		- To add 128 to value of the variable TRUEKNOWLEDGE
-9.  
+9. echo $((POWER / DIVIDE))		- To display the reult of  POWER divided by DIVIDE
+10. echo $((BREATH**LOVE))		- To display the result of BREATH to the power LOVE 
